@@ -10,6 +10,7 @@ Inactive links will be added the evening before the following day's class.
 * Day 2: [Data Wrangling](https://github.com/tyarkoni/SSI2017/blob/master/notebooks/Day%202%20-%20Data%20wrangling.ipynb)
 * Day 3: [Visualizing and Analyzing Data](https://github.com/tyarkoni/SSI2017/blob/master/notebooks/Day%203%20-%20Exploring%20and%20analyzing%20data%20in%20Python.ipynb)
 * Day 4: [Predictive Modeling](https://github.com/tyarkoni/SSI2017/blob/master/notebooks/Day%204%20-%20Machine%20learning%20in%20scikit-learn.ipynb)
+* [Course evaluation survey](https://utexas.qualtrics.com/jfe/form/SV_bCKEvRso3fk40Tz)
 
 ## Setup
 To get the most out of the course, you'll probably want to show up to class with a laptop set up with a working scientific Python environment. The easiest way to accomplish this is to install the [Anaconda distribution](https://www.continuum.io/downloads), available for all major operating systems. You can install anaconda from:
